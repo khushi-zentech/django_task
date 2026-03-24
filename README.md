@@ -1,6 +1,6 @@
-# Django Project Learning Phase
+# Django Project Learning Phase (Date - 09/03/2026 to 20/03/2026)
 
-*  Implementation of Django Project according to DjangoTutorial
+*  Implementation of Django Project according to Django Tutorial
 1. Part - 1: Requests and Responses 
 2. Part - 2: Models and the admin site
 3. Part - 3: Views and Templates
@@ -13,3 +13,11 @@
 
 * Project Name - mysite
 * App Name - polls
+
+# DRF Project Learning Phase (Date - 23/03/2026)
+
+* Implementation of DRF Project according to DRF Tutorial
+1. Quickstart
+
+* Project Name - tutorial
+* App Name - quickstart
