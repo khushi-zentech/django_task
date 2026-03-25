@@ -1,4 +1,4 @@
-# Django Project Learning Phase (Date - 09/03/2026 to 20/03/2026)
+# Django Project Learning Phase (Date - 09/03/2026)
 
 *  Implementation of Django Project according to Django Tutorial
 1. Part - 1: Requests and Responses 
@@ -18,6 +18,12 @@
 
 * Implementation of DRF Project according to DRF Tutorial
 1. Quickstart
+2. Serialization
 
-* Project Name - tutorial
-* App Name - quickstart
+* For Quickstart, (Inside the drftutorial folder)
+  * Project Name - tutorial (Inside that folder there is an App)
+  * App Name - quickstart
+
+* For Serialization, (Inside the drftutorial_1 folder)
+  * Project Name - tutorial
+  * App Name - snippets
