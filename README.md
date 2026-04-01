@@ -19,6 +19,7 @@
 * Implementation of DRF Project according to DRF Tutorial
 1. Quickstart
 2. Serialization
+3. Requests and Responses
 
 * For Quickstart, (Inside the drftutorial folder)
   * Project Name - tutorial (Inside that folder there is an App)
