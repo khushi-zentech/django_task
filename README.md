@@ -20,6 +20,7 @@
 1. Quickstart
 2. Serialization
 3. Requests and Responses
+4. Class based views
 
 * For Quickstart, (Inside the drftutorial folder)
   * Project Name - tutorial (Inside that folder there is an App)
