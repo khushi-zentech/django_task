@@ -22,6 +22,8 @@
 3. Requests and Responses
 4. Class based views
 5. Authentication and permissions
+6. Relationships and hyperlinked APIs
+7. Viewsets and routers
 
 * For Quickstart, (Inside the drftutorial folder)
   * Project Name - tutorial (Inside that folder there is an App)
